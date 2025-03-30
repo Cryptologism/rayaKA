@@ -4,7 +4,7 @@ body {
   margin: 0;
   padding: 0;
   background: url('https://raw.githubusercontent.com/Cryptologism/rayaKA/main/DSC09522.JPG') no-repeat center center fixed;
-  background-size: contain;
+  background-size: cover;
   background-color: #111;
   font-family: 'Poppins', sans-serif;
   display: flex;
